@@ -12,4 +12,4 @@ A simple Python tool to scan system logs and detect IP addresses with multiple f
 Make sure you have Python installed, then:
 
 ```bash
-python main.py
+python flag_ip.py
