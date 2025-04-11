@@ -9,6 +9,7 @@ A simple Python tool to scan system logs and detect IP addresses with multiple f
 - Flags IPs with 3 or more failed attempts
 
 ##  How to run
+Ensure the system_logs.txt file is in the same folder
 Make sure you have Python installed, then:
 
 ```bash
